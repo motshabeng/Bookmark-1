@@ -1,0 +1,97 @@
+
+.body input{
+  border: none;
+  margin-left: 50%;
+ width :45%;
+  margin: 45px;
+  margin-left: 30%;
+ height:40px
+ 
+ 
+ 
+ 
+}
+button{
+  margin-left: 42%;
+  cursor: pointer;
+  width: 18%;
+  height: 6vh;
+  border-radius: 20px;
+  background-color: rgba(63, 91, 170, 0.952);
+  border: none;
+  color: whitesmoke;
+  font-size: 20px;
+  font-family: serif;
+
+
+ 
+}
+.song{
+  margin-left: 40%;
+  text-decoration:underline;
+  color: whitesmoke;
+
+}
+.body{
+  background-image: url(./images/colorful-music-background-showing-sounds-jazz-and-harmony-WKH814.jpg);
+  
+  height:  100%;
+  width: 100%;
+  border: none;
+  
+ 
+ 
+  
+}
+.card{
+  border: solid 5px  rgb(138, 92, 92);
+  width: 100vh;
+  height: 80%;
+  margin-left: 28%;
+  text-align: center;
+rotate: 6;
+  background-image: url(./images/colorful-music-background-showing-sounds-jazz-and-harmony-WKH814.jpg);
+ 
+}
+.track{
+  border: solid 3px;
+  height: 5vh;
+  width: 55%;
+  text-align: center;
+  margin-left: 20%;
+  background-color: whitesmoke;
+  border: none;
+
+}
+.artist{
+  border: solid 3px;
+  height: 5vh;
+  width: 55%;
+  text-align: center;
+  margin-left: 20%;
+  background-color: whitesmoke;
+  border: none;
+}
+.album{
+  border: solid 3px;
+  height: 5vh;
+  width: 55%;
+  text-align: center;
+  margin-left: 20%;
+  background-color: whitesmoke;
+  border: none;
+}
+.source{
+  border: solid 3px;
+  height: 5vh;
+  width: 55%;
+  text-align: center;
+  margin-left: 20%;
+  background-color: whitesmoke;
+  border: none;
+}
+.button2{
+  margin-right: 50%;
+}
+
+
